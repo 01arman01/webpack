@@ -1,0 +1,28 @@
+{
+  "name": "web-pack",
+  "version": "1.0.0",
+  "description": "webpack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01arman01/webpack.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack"
+  ],
+  "author": "Arman <armanpapyan6@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01arman01/webpack/issues"
+  },
+  "homepage": "https://github.com/01arman01/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
