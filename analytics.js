@@ -10,7 +10,7 @@ function createAnalytics (){
             document.removeEventListener('click' ,listeneer)
             isdestroyed = true
         },
-        getClicks(){
+        getClicks(){ 
             if(isdestroyed){
                return 'analytic is destroyed'
             }else{
